@@ -6,8 +6,8 @@
   "iso_checksum": "afab3a588cda94cd768826e77ad4db2b5ee7c485",
   "iso_checksum_type": "sha1",
   "iso_name": "CentOS-6.8-x86_64-bin-DVD1.iso",
-  "iso_url": "http://mirrors.kernel.org/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso",
+  "iso_url": "http://mirror.rackspace.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso",
   "kickstart": "ks6-desktop.cfg",
   "memory": "1024",
-  "vagrantfile_template": "tpl/vagrantfile-centos68-desktop.tpl"
+  "vm_name": "centos68"
 }

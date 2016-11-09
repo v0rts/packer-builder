@@ -10,5 +10,5 @@
   "memory": "512",
   "parallels_guest_os_type": "centos7",
   "version": "1.0.0",
-  "vm_name": "centos72"
+  "vm_name": "centos72",
 }
